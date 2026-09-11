@@ -24,6 +24,7 @@ venv/
 
 # Model weights are shared out-of-band and pointed at via $WEIGHTS_DIR
 weights/
+/tokenizers/
 
 # Training outputs / logs
 tb_logs/
